@@ -1,4 +1,4 @@
-package by.epamtc.pashun.controller;
+package by.epamtc.pashun.hotel.controller;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
