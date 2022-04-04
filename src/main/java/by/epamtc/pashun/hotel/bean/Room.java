@@ -1,7 +1,6 @@
 package by.epamtc.pashun.hotel.bean;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 public class Room implements Serializable {
 
